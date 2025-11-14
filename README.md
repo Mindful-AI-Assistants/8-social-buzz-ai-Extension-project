@@ -5,7 +5,18 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-<br>
+
+<br><br>
+
+[**Course:**]() Humanistic AI & Data Science (4th Semester)  
+[**Institution:**]() PUC-SP  
+**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
+
+
+
+<br><br>
+
+
 
 # <p align="center"> 8- [Social Buzz AI - Extension Project]() - [Academic Performance Analytics]()
 ### <p align="center">  ***Exploratory Analysis and Academic Performance Modeling***
@@ -22,19 +33,13 @@
 
 <br><br>
 
+ 
+ ### <p align="center"> [Slides Presentation]()
 
-### <p align="center"> [Slides Presentation]()
-
-<br><br>
-
-[**Course:**]() Humanistic AI & Data Science (4th Semester)  
-[**Institution:**]() PUC-SP  
-**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
 
 
 <br><br>
-
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
