@@ -1,12 +1,38 @@
 
 <br>
- 
+
+
  
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
+<br>
+
+
+# <p align="center">  8- [Social Buzz AI - Extension Project]() - [Academic Performance Analytics]()
+### <p align="center">  **Exploratory Analysis and Academic Performance Modeling**
+
 
 <br><br>
+
+
+## 👩🏻‍🎓 [Academic Performance Analytics]()
+
+
+<br>
+
+
+A Data-Driven Study on Student Performance \& Learning Outcomes
+
+This project analyzes an anonymized dataset of student grades to uncover insights into academic performance, identify patterns, and explore the viability of predictive models for educational analytics.
+
+It was developed as part of the Social Media Marketing course at PUC-SP, applying principles of data storytelling, analytical thinking, and structured reporting.
+
+
+
+
+<br><br>
+
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
@@ -41,10 +67,14 @@
 <!--End-->
 
 
-
-
-# <p align="center"> 8- [Social Buzz AI - Extension Project]() - [Academic Performance Analytics]()
-### <p align="center">  **Exploratory Analysis and Academic Performance Modeling**
+> [!IMPORTANT]
+>
+> • This repository: [**8-Extension Project – Academic Performance Analytics**]() — is part of the overall structure defined in the main hub and follows the same standards, organization, and documentation patterns.
+>
+> • **TheMain Repository** ](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
+>   `1-social-buzz-ai-main` serves as the central hub for this discipline, consolidating all project files, documentation, and links to the related sub-repositories.
+>  <br>
+>
 
 
 
@@ -64,6 +94,7 @@
 <br><br>
 
  
+
  ### <p align="center"> [Slides Presentation](https://pucsp-my.sharepoint.com/:p:/g/personal/ra00345784_pucsp_edu_br/IQD_GEzNQtEcTo6TjpWAIl4SAUuXlrRbI4AiQ3s8cd3EcmQ?e=DJ3r4l)
 
 
@@ -76,21 +107,6 @@
 
 
 
-
-## 👩🏻‍🎓 [Academic Performance Analytics]()
-
-
-<br>
-
-
-A Data-Driven Study on Student Performance \& Learning Outcomes
-
-This project analyzes an anonymized dataset of student grades to uncover insights into academic performance, identify patterns, and explore the viability of predictive models for educational analytics.
-
-It was developed as part of the Social Media Marketing course at PUC-SP, applying principles of data storytelling, analytical thinking, and structured reporting.
-
-
-<br><br>
 
 ## Table of Contents
 
