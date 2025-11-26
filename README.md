@@ -10,8 +10,9 @@
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
-**Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
-**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
+
+✨ **Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
+✨ **Professor:** [Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
 <!--Confidentiality Statement-->
 
