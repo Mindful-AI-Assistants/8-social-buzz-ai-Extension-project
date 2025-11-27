@@ -146,12 +146,12 @@ This project demonstrates a full data science workflow — from raw data cleanin
 This repository contains a structured analysis of student academic performance, developed as part of an educational project.
 Although initially created within a Social Media Marketing course, the project leverages the dataset to practice core Data Science and Machine Learning skills, including:
 
-* Data cleaning and preparation
-* Exploratory Data Analysis (EDA)
-* Feature engineering
-* Predictive modeling with Random Forest
-* Model explainability using SHAP
-* Insight communication and structured storytelling
+ [*]() Data cleaning and preparation
+ [*]() Exploratory Data Analysis (EDA)
+ [*]() Feature engineering
+ [*]() Predictive modeling with Random Forest
+ [*]() Model explainability using SHAP
+ [*]() Insight communication and structured storytelling
 
  <br> 
 
@@ -168,10 +168,10 @@ Although initially created within a Social Media Marketing course, the project l
 
 The original dataset presented several structural issues:
 
-* Metadata mixed with data rows
-* Multiple header rows
-* Duplicate columns
-* Irregular formatting and inconsistent values
+[*]() Metadata mixed with data rows
+[*]() Multiple header rows
+[*]() Duplicate columns
+[*]() Irregular formatting and inconsistent values
 
  <br> 
 
@@ -185,9 +185,9 @@ The original dataset presented several structural issues:
 
 The analysis surfaced several important findings:
 
-* High dropout and absenteeism rates
-* “No response from the student" was the most frequent reason for non-attendance
-* Strong patterns linked to academic history and semester status
+ [*]() High dropout and absenteeism rates
+ [*]() No response from the student" was the most frequent reason for non-attendance
+ [*]() Strong patterns linked to academic history and semester status
 
 
 <br>
