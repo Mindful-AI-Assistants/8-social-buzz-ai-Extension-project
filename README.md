@@ -206,10 +206,11 @@ Key transformations included:
 <br><br>
 
 
-
 ### **4. Predictive Modeling**
 
 A Random Forest Classifier was trained and evaluated, achieving strong performance:
+
+<br>
 
 | Metric    | Score      |
 | --------- | ---------- |
@@ -217,6 +218,10 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 | Precision | **87.00%** |
 | Recall    | **94.50%** |
 | F1-Score  | **90.60%** |
+
+
+<br>
+
 
 A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
 
@@ -263,7 +268,7 @@ These insights help build data-driven strategies for intervention.
 * Future improvements may include:
 
 
-<br><
+<br>
 
   * Hyperparameter optimization
   * Comparison with other ML models
@@ -276,7 +281,7 @@ These insights help build data-driven strategies for intervention.
 
 ## **Bilingual Summary Table (PT → EN Reference)**
 
-<br><
+<br>
 
 
 | Portuguese Summary                                                                                        | English Version                                                                                          |
