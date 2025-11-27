@@ -253,16 +253,43 @@ These insights help build data-driven strategies for intervention.
 
 
 
+<br><br>
+
+
+## **Insights & Next Steps**
+
+* Risk factors identified by the model can guide targeted support programs and early interventions.
+* The predictive model can be integrated into institutional systems such as early-alert dashboards or student-support chatbots.
+* Future improvements may include:
+
+
+<br><
+
+  * Hyperparameter optimization
+  * Comparison with other ML models
+  * Time series modeling of academic progression
+  * Real-time prediction pipelines
+
+
+<br><br>
+
+
+## **Bilingual Summary Table (PT → EN Reference)**
+
+<br><
+
+
+| Portuguese Summary                                                                                        | English Version                                                                                          |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| O conjunto de dados inicial apresentava problemas estruturais, resolvidos na limpeza.                     | The initial dataset contained structural issues, resolved during cleaning.                               |
+| A análise exploratória revelou alta taxa de evasão, com “Sem retorno do estudante” como motivo principal. | Exploratory analysis revealed high dropout risk, with “No response from the student” as the main reason. |
+| O modelo Random Forest apresentou métricas acima de 90%.                                                  | The Random Forest model achieved metrics above 90%.                                                      |
+| Foram identificados fatores-chave de risco estudantil.                                                    | Key risk factors were identified.                                                                        |
+| 186 estudantes foram previstos em risco de evasão.                                                        | 186 students were predicted as at risk.                                                                  |
 
 
 
-
-
-
-
-
-
-
+<br><br>
 
 
 
