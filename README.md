@@ -449,7 +449,7 @@ cd social-pulse-academic-performance
 <br><br>
 
 
-### [**2. Create a virtual environment (recommended)**() 
+### [**2. Create a virtual environment (recommended)**]() 
 
 <br>
 
@@ -459,7 +459,11 @@ source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 ```
 
-### **3. Install dependencies**
+<br><br>
+
+### [**3. Install dependencies**]() 
+
+<br>                                
 
 ```bash
 pip install -r requirements.txt
@@ -467,7 +471,8 @@ pip install -r requirements.txt
 
 <br><br>
 
-### **4. Launch Jupyter**
+
+### [**4. Launch Jupyter**]() 
 
 <br>
 
@@ -478,7 +483,9 @@ jupyter notebook
 
 <br><br>
 
-### **5. Open the main notebook**
+
+
+### [**5. Open the main notebook**]() 
 
 Navigate to:
 
@@ -488,6 +495,9 @@ Navigate to:
 notebooks/academic_performance_pipeline_AI-ML.ipynb
 ```
 
+
+<br>
+
 Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
 
 
@@ -496,18 +506,30 @@ Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and
 
 ## **Roadmap**
 
+<br>
+
 Below is the planned evolution of the project, combining academic rigor with practical ML expansion.
 
-<br>
+
+<br><br>
+
 
 ### **Phase 1 — Completed**
 
+<br>
+
 * Data cleaning and dataset restructuring
+
 * Exploratory Data Analysis
+
 * Feature engineering
+
 * Random Forest modeling
+
 * Model evaluation
+
 * SHAP explainability
+
 * Key insights and outcome report
 
 
@@ -537,24 +559,29 @@ Below is the planned evolution of the project, combining academic rigor with pra
   * FastAPI endpoint for real-time predictions
 * Automated pipeline using:
 
-  * Prefect or Airflow
+  <br>
+
+    * Prefect or Airflow
   * CI/CD integration
 * Improved explainability (partial dependency plots, feature interactions)
 
 
 <br><br>
 
-# **Contributing**
 
-Contributions are welcome.
+## **Contributing**
+
+<br>
+
+👌🏻 Contributions are welcome.
+
 Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.
-
 
 
 <br><br>
 
 
-   
+ 
 
 ##  💚 [Our Crew:]()
 
