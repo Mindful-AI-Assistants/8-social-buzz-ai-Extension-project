@@ -475,6 +475,42 @@ The original dataset presented several structural issues:
  [*]()  Reproducible data science pipeline
 
 
+
+<br><br>
+
+
+## [**Requirements**]()
+
+<br>
+
+### ***To reproduce the full data pipeline, install the dependencies below:***
+
+<br>
+
+
+```
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.0
+imbalanced-learn==0.12.2
+
+# Explainability
+shap==0.45.1
+
+# Notebook Environment
+jupyter==1.0.0
+ipykernel==6.29.4
+```
+
+
 <br><br>
 
 
@@ -556,42 +592,6 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 > * Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.  <br>
 > 
 >
-
-
-
-<br><br>
-
-
-## [**Requirements**]()
-
-<br>
-
-### ***To reproduce the full data pipeline, install the dependencies below:***
-
-
-```
-# Core
-numpy==1.26.4
-pandas==2.2.2
-scipy==1.13.1
-
-# Visualization
-matplotlib==3.8.4
-seaborn==0.13.2
-
-# Machine Learning
-scikit-learn==1.5.0
-imbalanced-learn==0.12.2
-
-# Explainability
-shap==0.45.1
-
-# Notebook Environment
-jupyter==1.0.0
-ipykernel==6.29.4
-```
-
-
 
 
 
