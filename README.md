@@ -131,7 +131,7 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 
 
-# **Social Pulse — Academic Performance Modeling & Analytics**
+# [**Social Pulse — Academic Performance Modeling & Analytics**]()
 
 A complete end-to-end Machine Learning pipeline designed to explore, model, and predict student academic performance using anonymized institutional records.
 This project demonstrates a full data science workflow — from raw data cleaning to predictive modeling and interpretable insights.
@@ -153,16 +153,18 @@ Although initially created within a Social Media Marketing course, the project l
 * Model explainability using SHAP
 * Insight communication and structured storytelling
 
-The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk.
+ <br> 
+
+> The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk.
 
 
 <br><br>
 
 
 
-## **Project Pipeline**
+## [**Project Pipeline**]()
 
-### **1. Data Cleaning & Preparation**
+### [**1. Data Cleaning & Preparation**]()
 
 The original dataset presented several structural issues:
 
@@ -171,14 +173,15 @@ The original dataset presented several structural issues:
 * Duplicate columns
 * Irregular formatting and inconsistent values
 
-All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
+ <br> 
+
+> All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
 
 
+<br>
 
-<br><br>
 
-
-### **2. Exploratory Data Analysis (EDA)**
+### [**2. Exploratory Data Analysis (EDA)**]()
 
 The analysis surfaced several important findings:
 
@@ -187,13 +190,9 @@ The analysis surfaced several important findings:
 * Strong patterns linked to academic history and semester status
 
 
+<br>
 
-<br><br>
-
-
-
-
-### **3. Feature Engineering**
+### [**3. Feature Engineering**]()
 
 Key transformations included:
 
@@ -202,34 +201,29 @@ Key transformations included:
 * Creating derived features based on academic progression
 
 
+<br>
 
-<br><br>
 
-
-### **4. Predictive Modeling**
+### [**4. Predictive Modeling**]()
 
 A Random Forest Classifier was trained and evaluated, achieving strong performance:
 
 <br>
 
-| Metric    | Score      |
+| [Metric]()    | [Score]()    |
 | --------- | ---------- |
-| Accuracy  | **94.50%** |
-| Precision | **87.00%** |
-| Recall    | **94.50%** |
-| F1-Score  | **90.60%** |
+| Accuracy  | [**94.50%**]() |
+| Precision | [**87.00%**]() |
+| Recall    | [**94.50%**]() |
+| F1-Score  | [**90.60%**]() |
 
 
 <br>
 
-
-A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
-
+> A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
 
 
-
-
-<br><br>
+<br>
 
 
 ### **5. Explainability & Insights**
