@@ -13,3 +13,16 @@
 
 Informações - Explica o projeto e tecnologias
 
+
+## Como usar no Hugging Face:
+
+Crie um novo Space:
+
+Vá em: https://huggingface.co/new-space
+
+Nome: academic-performance-ai
+
+SDK: Selecione Gradio
+
+Visibilidade: Public
+
