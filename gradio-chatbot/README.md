@@ -2,7 +2,7 @@
 
 # Chatbot Gradio!
 
-#
+
 
 ## ✨ O que o chatbot faz:
 
@@ -39,4 +39,34 @@ pandas
 numpy
 scikit-learn
 ```
+
+
+4. **Publique** - O Hugging Face vai fazer deploy automático!
+   
+
+### 🎮 Funcionalidades:
+
+ 
+ Chat conversacional com IA
+
+- Upload e treinamento de modelo
+- Predições em tempo real
+- Interface moderna e intuitiva
+- Dicas personalizadas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
